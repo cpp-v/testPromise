@@ -1,0 +1,23 @@
+{
+  "name": "promice",
+  "version": "1.0.0",
+  "description": "testPromise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpp-v/testPromise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpp-v/testPromise/issues"
+  },
+  "homepage": "https://github.com/cpp-v/testPromise#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1"
+  }
+}
